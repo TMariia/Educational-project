@@ -1,2 +1,3 @@
 # Educational-project
-its my first protect 
+its my first project 
+i added some changes on my projeck
